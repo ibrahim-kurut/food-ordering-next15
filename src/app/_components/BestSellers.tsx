@@ -19,7 +19,7 @@ const BestSellers = () => {
       description:
         "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, mollitia.",
       basePrice: 9.99,
-      image: "/assets/imgs/pizza.png",
+      image: "/assets/imgs/burger.jpg",
     },
     {
       id: crypto.randomUUID(),
@@ -27,7 +27,7 @@ const BestSellers = () => {
       description:
         "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, mollitia.",
       basePrice: 4.99,
-      image: "/assets/imgs/pizza.png",
+      image: "/assets/imgs/fries.jpg",
     },
   ];
   return (
